@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Graphic Design.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 37,
+    "uniqCompNum": 39,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "publishPath": "@PROJECT_PATH@/Mobirise",
@@ -465,6 +465,98 @@
             "showBullets": true
           },
           "_anchor": "gallery3-i",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0138-1-4032x3024-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/IMG_0138_1.JPG",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0134-1-4032x3024-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/IMG_0134_1.JPG",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0135-4032x3024-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/IMG_0135.JPG",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0136-4032x3024-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/IMG_0136.JPG",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0154-4032x3024-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/IMG_0154.JPG",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0145-4032x3024-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/IMG_0145.JPG",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0151-4032x3024-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/IMG_0151.JPG",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-12",
           "articleLayout": false,
           "allItem": "All"
         }
