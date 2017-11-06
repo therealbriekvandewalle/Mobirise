@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 39,
+    "uniqCompNum": 46,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "publishPath": "@PROJECT_PATH@/Mobirise",
@@ -50,16 +50,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -74,7 +76,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -94,16 +96,20 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -137,26 +143,38 @@
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/beeld-4-2000x1324-98.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/IMG_0138_2.JPG",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#ffffff",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
           "title": "BRIEK VAN DE WALLE",
           "text": "Graphic Designer<br>Musician<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Enter the sauce</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Enter the sauce</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -182,6 +200,29 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "2015 - 2016",
+          "meta": ""
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -189,16 +230,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -213,7 +256,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -233,16 +276,20 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             }
           },
           "_name": "menu",
           "_anchor": "menu-a",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -292,7 +339,7 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": "4",
             "images": [
               {
@@ -456,12 +503,12 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "4",
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "filterBgColor": true,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
           "_anchor": "gallery3-i",
@@ -469,12 +516,32 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "2017",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "gallery1",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": 0,
             "paddingBottom": 0,
             "images": [
               {
@@ -482,8 +549,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0138-1-4032x3024-80.jpg",
-                "image": "@PROJECT_PATH@/assets/images/IMG_0138_1.JPG",
+                "thumb": "@PROJECT_PATH@/assets/images/md1-3024x4032-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/md1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -492,8 +559,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0134-1-4032x3024-78.jpg",
-                "image": "@PROJECT_PATH@/assets/images/IMG_0134_1.JPG",
+                "thumb": "@PROJECT_PATH@/assets/images/md2-4032x3024-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/md2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -502,8 +569,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0135-4032x3024-61.jpg",
-                "image": "@PROJECT_PATH@/assets/images/IMG_0135.JPG",
+                "thumb": "@PROJECT_PATH@/assets/images/md3-3024x4032-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/md3.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -512,8 +579,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0136-4032x3024-65.jpg",
-                "image": "@PROJECT_PATH@/assets/images/IMG_0136.JPG",
+                "thumb": "@PROJECT_PATH@/assets/images/md4-3024x4032-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/md4.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -522,8 +589,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0154-4032x3024-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/IMG_0154.JPG",
+                "thumb": "@PROJECT_PATH@/assets/images/md5-4032x3024-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/md5.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -532,8 +599,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0145-4032x3024-35.jpg",
-                "image": "@PROJECT_PATH@/assets/images/IMG_0145.JPG",
+                "thumb": "@PROJECT_PATH@/assets/images/md6-4032x3024-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/md6.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -542,21 +609,51 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0151-4032x3024-92.jpg",
-                "image": "@PROJECT_PATH@/assets/images/IMG_0151.JPG",
+                "thumb": "@PROJECT_PATH@/assets/images/md7-3024x4032-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/md7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/md8-3024x4032-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/md8.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/md9-3024x4032-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/md9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/",
+                "image": "@PROJECT_PATH@/assets/images/md11-3.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "5",
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#FFFFFF",
             "filterBgColor": false,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery1-12",
+          "_anchor": "gallery1-19",
           "articleLayout": false,
           "allItem": "All"
         }
@@ -625,9 +722,13 @@
           "_anchor": "menu-j",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,

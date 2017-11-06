@@ -1,6 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
 
 
 
@@ -418,18 +423,19 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #ffffff;
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -454,7 +460,7 @@ h6,
   background: #282828;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -476,7 +482,23 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
+}
+#header1-1 .mbr-section-title {
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+}
+#header1-1 .mbr-section-lead {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+
+#header3-14 .mbr-section-title,
+#header3-14 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-14 H3 {
+  text-align: right;
 }
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
@@ -485,18 +507,19 @@ h6,
   color: #ffffff;
 }
 #menu-a .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-a .link,
 #menu-a .dropdown-item {
-  color: #ffffff;
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-a .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #menu-a .dropdown-item,
 #menu-a .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #menu-a .link:hover,
 #menu-a .dropdown-item:hover,
@@ -521,7 +544,7 @@ h6,
   background: #282828;
 }
 #menu-a .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-a .bg-color.transparent.opened .link {
@@ -543,7 +566,11 @@ h6,
 }
 #menu-a .close-icon::before,
 #menu-a .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
+}
+#header3-15 .mbr-section-title,
+#header3-15 .mbr-section-subtitle {
+  text-align: center;
 }
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
