@@ -423,11 +423,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #000000;
+  color: #2969b0;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #000000;
+  color: #2969b0;
   font-family: 'Oswald', sans-serif;
 }
 #menu-0 .link {
@@ -460,7 +460,7 @@ h6,
   background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #000000;
+  color: #2969b0;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -472,7 +472,7 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #2969b0!important;
+  color: #3d8eb9!important;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -482,10 +482,10 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #000000;
+  background-color: #2969b0;
 }
 #header1-1 .mbr-section-title {
-  color: #000000;
+  color: #2969b0;
   font-family: 'Oswald', sans-serif;
 }
 #header1-1 .mbr-section-lead {
@@ -499,6 +499,7 @@ h6,
 }
 #header3-14 H3 {
   text-align: right;
+  color: #2969b0;
 }
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
@@ -507,11 +508,11 @@ h6,
   color: #ffffff;
 }
 #menu-a .navbar-toggler {
-  color: #000000;
+  color: #2969b0;
 }
 #menu-a .link,
 #menu-a .dropdown-item {
-  color: #000000;
+  color: #2969b0;
   font-family: 'Oswald', sans-serif;
 }
 #menu-a .link {
@@ -529,22 +530,22 @@ h6,
 }
 #menu-a .link[aria-expanded="true"],
 #menu-a .dropdown-menu {
-  background: #0e0e0e;
+  background: #e6e6e6;
 }
 #menu-a .nav-dropdown-sm .link:focus,
 #menu-a .nav-dropdown-sm .link:hover,
 #menu-a .nav-dropdown-sm .dropdown-item:focus,
 #menu-a .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #f7f7f7!important;
 }
 #menu-a .navbar,
 #menu-a .nav-dropdown-sm,
 #menu-a .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-a .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #ffffff;
 }
 #menu-a .bg-color.transparent .link {
-  color: #000000;
+  color: #2969b0;
   transition: none;
 }
 #menu-a .bg-color.transparent.opened .link {
@@ -556,7 +557,7 @@ h6,
 }
 #menu-a .link[aria-expanded="true"],
 #menu-a .dropdown-item[aria-expanded="true"] {
-  color: #2969b0!important;
+  color: #3d8eb9!important;
 }
 #menu-a.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -566,11 +567,14 @@ h6,
 }
 #menu-a .close-icon::before,
 #menu-a .close-icon::after {
-  background-color: #000000;
+  background-color: #2969b0;
 }
 #header3-15 .mbr-section-title,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
+}
+#header3-15 H3 {
+  color: #2969b0;
 }
 
 #menu-j .hide-buttons .nav-btn {
@@ -580,11 +584,11 @@ h6,
   color: #ffffff;
 }
 #menu-j .navbar-toggler {
-  color: #000000;
+  color: #2969b0;
 }
 #menu-j .link,
 #menu-j .dropdown-item {
-  color: #000000;
+  color: #2969b0;
   font-family: 'Oswald', sans-serif;
 }
 #menu-j .link {
@@ -617,7 +621,7 @@ h6,
   background: #282828;
 }
 #menu-j .bg-color.transparent .link {
-  color: #000000;
+  color: #2969b0;
   transition: none;
 }
 #menu-j .bg-color.transparent.opened .link {
@@ -639,7 +643,7 @@ h6,
 }
 #menu-j .close-icon::before,
 #menu-j .close-icon::after {
-  background-color: #000000;
+  background-color: #2969b0;
 }
 #header6-p .mbr-section-title {
   color: #28262b;
@@ -650,6 +654,9 @@ h6,
 #header6-p H3 {
   color: #f28281;
 }
+#header6-p SPAN {
+  color: #2969b0;
+}
 #header6-q .mbr-section-title {
   color: #28262b;
 }
@@ -657,7 +664,7 @@ h6,
   color: #565656;
 }
 #header6-q H3 {
-  color: #f28281;
+  color: #2969b0;
 }
 #header6-r .mbr-section-title {
   color: #28262b;
@@ -671,6 +678,9 @@ h6,
 #header6-s .mbr-section-text {
   color: #565656;
 }
+#header6-s H3 {
+  color: #2969b0;
+}
 #menu-t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -678,11 +688,11 @@ h6,
   color: #ffffff;
 }
 #menu-t .navbar-toggler {
-  color: #000000;
+  color: #2969b0;
 }
 #menu-t .link,
 #menu-t .dropdown-item {
-  color: #000000;
+  color: #2969b0;
 }
 #menu-t .link {
   font-size: 0.75rem;
@@ -714,7 +724,7 @@ h6,
   background: #282828;
 }
 #menu-t .bg-color.transparent .link {
-  color: #000000;
+  color: #2969b0;
   transition: none;
 }
 #menu-t .bg-color.transparent.opened .link {
@@ -736,7 +746,7 @@ h6,
 }
 #menu-t .close-icon::before,
 #menu-t .close-icon::after {
-  background-color: #000000;
+  background-color: #2969b0;
 }
 #menu-x .hide-buttons .nav-btn {
   display: none !important;
