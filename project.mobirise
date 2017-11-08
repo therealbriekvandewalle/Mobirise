@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "myself.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -205,7 +205,7 @@
             },
             "H3": {
               "text-align": "right",
-              "color": "#2969b0",
+              "color": "#000000",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
@@ -233,10 +233,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#28324e"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0",
+              "color": "#28324e",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -259,7 +259,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#28324e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -279,7 +279,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#28324e"
             }
           },
           "_name": "menu",
@@ -524,7 +524,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#2969b0",
+              "color": "#000000",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
@@ -640,16 +640,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/md9-3024x4032-40.jpg",
                 "image": "@PROJECT_PATH@/assets/images/md9.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/",
-                "image": "@PROJECT_PATH@/assets/images/md11-3.jpg",
-                "caption": "Type caption here",
                 "active": true
               }
             ],
@@ -679,10 +669,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#28324e"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0",
+              "color": "#28324e",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -705,7 +695,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#28324e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -725,7 +715,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#28324e"
             }
           },
           "_name": "menu",
@@ -1180,16 +1170,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#28324e"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0"
+              "color": "#28324e",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1204,7 +1196,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#28324e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1224,15 +1216,19 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#28324e"
             }
           },
           "_name": "menu",
           "_anchor": "menu-t",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "1",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
@@ -1373,16 +1369,18 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#28324e"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#28324e",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1397,7 +1395,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#28324e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1417,15 +1415,19 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#28324e"
             }
           },
           "_name": "menu",
           "_anchor": "menu-x",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "1",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
