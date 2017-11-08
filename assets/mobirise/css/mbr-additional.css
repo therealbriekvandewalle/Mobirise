@@ -664,13 +664,16 @@ h6,
   color: #565656;
 }
 #header6-q H3 {
-  color: #2969b0;
+  color: #000000;
 }
 #header6-r .mbr-section-title {
   color: #28262b;
 }
 #header6-r .mbr-section-text {
   color: #565656;
+}
+#header6-r H3 {
+  color: #2969b0;
 }
 #header6-s .mbr-section-title {
   color: #28262b;
@@ -680,6 +683,14 @@ h6,
 }
 #header6-s H3 {
   color: #2969b0;
+}
+#header3-1b .mbr-section-title,
+#header3-1b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1d .mbr-section-title,
+#header3-1d .mbr-section-subtitle {
+  text-align: center;
 }
 #menu-t .hide-buttons .nav-btn {
   display: none !important;

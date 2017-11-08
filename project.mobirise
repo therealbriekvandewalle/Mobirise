@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 46,
+    "uniqCompNum": 50,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "publishPath": "@PROJECT_PATH@/Mobirise",
@@ -813,7 +813,7 @@
             "overlayColor": "#000000",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "showArrow": true
           },
@@ -835,7 +835,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Guitar and Oscilloscope</span>",
+          "title": "<span style=\"font-weight: normal;\">Guitar and Oscilloscope</span><br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -849,7 +849,7 @@
               "color": "#565656"
             },
             "H3": {
-              "color": "#2969b0"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -872,7 +872,7 @@
             "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "showArrow": true
           },
@@ -895,7 +895,7 @@
             }
           },
           "title": "Drone 16/11/15",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "text": "This is a drone that i made during my first year of studying in Ghent. <br>Gear used:<br>Squier Jazzmaster American Standard<br>Boss DD7 Digital Delay<br>Digitech supernatural Ambient verb<br>MWFX Judder<br>Fender Rad Bass Amp",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -906,6 +906,9 @@
             },
             ".mbr-section-text": {
               "color": "#565656"
+            },
+            "H3": {
+              "color": "#2969b0"
             }
           },
           "_tags": [
@@ -928,7 +931,7 @@
             "overlayColor": "#ccc",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "showArrow": true
           },
@@ -951,7 +954,7 @@
             }
           },
           "title": "Improvisation",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "text": "An improvisation in my house, with all the gear i had gathered until that point.<br>Gear used:<br>Gibson Les Paul Traditional 2011<br>Boss DD7<br>Digitech Supernatural Ambient Verb<br>Digitech Bass Whammy<br>One cheap microphone<br>Fender Mustang II Amp",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -987,7 +990,7 @@
             "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "showArrow": true
           },
@@ -1010,8 +1013,136 @@
             }
           },
           "title": "New Pedal",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "text": "One of the first video's i made when i first bought the WMFX Judder. It's only me, the pedal, the Squier Jazzmaster, and the Fender Rad Bass Amp",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "MODULAR SETUP",
+          "meta": "This is my sample-based modular synthesizer, that i use to make ambient and soundscapes.<br>I made the case myself, and inserted modules from Tiptop Audio, Make Noise, Malekko Heavy Industry and Doepfer.<br>My guitar pedals are also integrated in this machine, and i'm looking forward to add even more possibilities in the future."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22532416-1582529528473657-1698617758-o-1183x1184-75.jpg",
+                "image": "@PROJECT_PATH@/assets/images/22532416-1582529528473657-1698617758-o.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23423630-1582529515140325-1679927453-o-1184x888-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/23423630-1582529515140325-1679927453-o.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23432333-1582529521806991-1932029611-o-1183x1184-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/23432333-1582529521806991-1932029611-o.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23468434-1582529538473656-1866335594-o-888x1184-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/23468434-1582529538473656-1866335594-o.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23469110-1582529518473658-1317782518-o-888x1184-15.jpg",
+                "image": "@PROJECT_PATH@/assets/images/23469110-1582529518473658-1317782518-o.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "4",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1c",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "SOUNDCLOUD",
+          "meta": "Here is the link to my soundcloud, the place where i recently uploaded some new ideas that i made <br>using my pedals and modular setup.<br>"
+        },
+        {
+          "_inherit": "soundcloud1",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F315096374",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-1a",
+          "_params": {
+            "sound": "https://soundcloud.com/briek-van-de-walle",
+            "autoplay": false,
+            "fullWidth": true
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F315096374&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
         }
       ]
     },
