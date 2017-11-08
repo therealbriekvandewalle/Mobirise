@@ -423,11 +423,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #2969b0;
+  color: #28324e;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #2969b0;
+  color: #28324e;
   font-family: 'Oswald', sans-serif;
 }
 #menu-0 .link {
@@ -460,7 +460,7 @@ h6,
   background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #2969b0;
+  color: #28324e;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -482,16 +482,18 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #2969b0;
+  background-color: #28324e;
 }
 #header1-1 .mbr-section-title {
-  color: #2969b0;
+  color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #header1-1 .mbr-section-lead {
   color: #000000;
   font-family: 'Roboto', sans-serif;
 }
+
+
 
 #header3-14 .mbr-section-title,
 #header3-14 .mbr-section-subtitle {
@@ -500,6 +502,7 @@ h6,
 #header3-14 H3 {
   text-align: right;
   color: #2969b0;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
@@ -575,7 +578,14 @@ h6,
 }
 #header3-15 H3 {
   color: #2969b0;
+  font-family: 'Oswald', sans-serif;
 }
+
+
+
+
+
+
 
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
@@ -655,7 +665,8 @@ h6,
   color: #f28281;
 }
 #header6-p SPAN {
-  color: #2969b0;
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
 }
 #header6-q .mbr-section-title {
   color: #28262b;
@@ -664,7 +675,8 @@ h6,
   color: #565656;
 }
 #header6-q H3 {
-  color: #000000;
+  color: #f3c649;
+  font-family: 'Oswald', sans-serif;
 }
 #header6-r .mbr-section-title {
   color: #28262b;
@@ -674,6 +686,7 @@ h6,
 }
 #header6-r H3 {
   color: #2969b0;
+  font-family: 'Oswald', sans-serif;
 }
 #header6-s .mbr-section-title {
   color: #28262b;
@@ -684,13 +697,22 @@ h6,
 #header6-s H3 {
   color: #2969b0;
 }
+#header6-s SPAN {
+  font-family: 'Oswald', sans-serif;
+}
 #header3-1b .mbr-section-title,
 #header3-1b .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1b H3 {
+  font-family: 'Oswald', sans-serif;
+}
 #header3-1d .mbr-section-title,
 #header3-1d .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1d H3 {
+  font-family: 'Oswald', sans-serif;
 }
 #menu-t .hide-buttons .nav-btn {
   display: none !important;

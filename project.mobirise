@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Drawings.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -50,10 +50,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#2969b0"
+              "color": "#28324e"
             },
             ".link, .dropdown-item": {
-              "color": "#2969b0",
+              "color": "#28324e",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -76,7 +76,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#2969b0",
+              "color": "#28324e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -96,7 +96,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
+              "background-color": "#28324e"
             }
           },
           "_name": "menu",
@@ -109,7 +109,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#2969b0",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -142,7 +142,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#2969b0",
+              "color": "#000000",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -155,17 +155,17 @@
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/IMG_0138_2.JPG",
+            "bgImage": "@PROJECT_PATH@/assets/images/ff-opn.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.9",
             "overlayColor": "#ffffff",
             "contentAlign": "left",
             "showTitle": true,
@@ -205,7 +205,9 @@
             },
             "H3": {
               "text-align": "right",
-              "color": "#2969b0"
+              "color": "#2969b0",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -290,7 +292,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#2969b0",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -522,7 +524,9 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#2969b0"
+              "color": "#2969b0",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -734,7 +738,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#2969b0",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -790,7 +794,9 @@
               "color": "#f28281"
             },
             "SPAN": {
-              "color": "#2969b0"
+              "color": "#000000",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -813,7 +819,7 @@
             "overlayColor": "#000000",
             "inverse": true,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "showArrow": true
           },
@@ -849,7 +855,9 @@
               "color": "#565656"
             },
             "H3": {
-              "color": "#000000"
+              "color": "#f3c649",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -894,7 +902,7 @@
               "size": 0
             }
           },
-          "title": "Drone 16/11/15",
+          "title": "<span style=\"font-weight: normal;\">Drone 16/11/15</span>",
           "text": "This is a drone that i made during my first year of studying in Ghent. <br>Gear used:<br>Squier Jazzmaster American Standard<br>Boss DD7 Digital Delay<br>Digitech supernatural Ambient verb<br>MWFX Judder<br>Fender Rad Bass Amp",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -908,7 +916,9 @@
               "color": "#565656"
             },
             "H3": {
-              "color": "#2969b0"
+              "color": "#2969b0",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -953,7 +963,7 @@
               "size": 0
             }
           },
-          "title": "Improvisation",
+          "title": "<span style=\"font-weight: normal;\">Improvisation</span>",
           "text": "An improvisation in my house, with all the gear i had gathered until that point.<br>Gear used:<br>Gibson Les Paul Traditional 2011<br>Boss DD7<br>Digitech Supernatural Ambient Verb<br>Digitech Bass Whammy<br>One cheap microphone<br>Fender Mustang II Amp",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -968,6 +978,10 @@
             },
             "H3": {
               "color": "#2969b0"
+            },
+            "SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -1012,7 +1026,7 @@
               "size": 0
             }
           },
-          "title": "New Pedal",
+          "title": "<span style=\"font-weight: normal;\">New Pedal</span>",
           "text": "One of the first video's i made when i first bought the WMFX Judder. It's only me, the pedal, the Squier Jazzmaster, and the Fender Rad Bass Amp",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -1020,6 +1034,10 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -1033,7 +1051,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "MODULAR SETUP",
+          "title": "Modular Setup",
           "meta": "This is my sample-based modular synthesizer, that i use to make ambient and soundscapes.<br>I made the case myself, and inserted modules from Tiptop Audio, Make Noise, Malekko Heavy Industry and Doepfer.<br>My guitar pedals are also integrated in this machine, and i'm looking forward to add even more possibilities in the future."
         },
         {
@@ -1112,6 +1130,10 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -1125,7 +1147,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "SOUNDCLOUD",
+          "title": "Soundcloud",
           "meta": "Here is the link to my soundcloud, the place where i recently uploaded some new ideas that i made <br>using my pedals and modular setup.<br>"
         },
         {
@@ -1211,7 +1233,7 @@
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1404,7 +1426,7 @@
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#2969b0",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
